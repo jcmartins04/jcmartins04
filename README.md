@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcmartins04
-- 👀 I’m interested in Astronomy, photography and programing
-- 🌱 I’m currently learning Cibersecurity
+- 👀 I’m interested in Astronomy, photography and programming
+- 🌱 I’m currently learning Cibersecurity on IES Valle del Jerte (Plasencia)
 - 💞️ I’m looking to collaborate on programming IOT things...
 - 📫 How to reach me sparkywebsolutions@gmail.com
 - 😄 Pronouns: Jc
