@@ -10,6 +10,7 @@
 jcmartins04/jcmartins04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+~~~~
 # BREVE CURRICULUM VITAE
 
 - Se forma como Auxiliar y Técnico Especialista en Electricidad y Electrónica de Comunicaciones en el “IES Pérez Comendador” de Plasencia.
@@ -23,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 - En la actualidad trabajo como Técnico Superior del MITERED en la C.H. Tajo.
 
 - Estudia CECETI en el IES Valle del Jerte de Plasencia. (Cáceres).
-
+~~~~
